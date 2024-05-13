@@ -2,10 +2,10 @@
 
 Links
 
+- [Apple App Store](https://apps.apple.com/in/app/folksable-photo-habit-tracker/id6473078578)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.folksable.app)
 
-- [Intro Video](https://youtu.be/6UzAzRwLYsQ)
-- [iPhone Demo](https://youtu.be/EiMkBBKjIGA)
+- [Intro Video](https://www.youtube.com/shorts/eA8jKkH_aG8)
 - [Story](./Story.md)
 
 
